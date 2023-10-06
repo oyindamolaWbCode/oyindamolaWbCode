@@ -5,6 +5,8 @@
 
 **Here's a quick summary about me**:
 
+<img align ="right" alt="coding" width="400" src="https://tenor.com/en-GB/view/working-headphones-focus-gif-14663604" />
+
 - 😊 Pronouns: She/Her
 - 💡 Fun fact: I'm an Alumni at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs, and TypeScript.
