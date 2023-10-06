@@ -5,7 +5,7 @@
 
 **Here's a quick summary about me**:
 
-<img align ="right" alt="coding" width="400" src="https://tenor.com/en-GB/view/working-headphones-focus-gif-14663604">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 😊 Pronouns: She/Her
 - 💡 Fun fact: I'm an Alumni at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
